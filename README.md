@@ -8,6 +8,5 @@ i) EDA: We have done a rigorous EDA in order to find out data insights, columns 
    b) Correlation of predictor variables with Response variable 
    c) Visualising correlation matrix to find out highly correlated variables thereby removing them from our model
 
-ii) Model building through Logistic regression and prediction 
-   a) Performance evaluation through confusion matrix, K fold cross validation and other related performance metrics 
-   b) Recursive feature extraction to find out 20 most relevant predictors and compare the accuracy with previous model with 40 predictors
+ii) Model building through different classifiers and prediction on test set:
+   a) Performance evaluation of different models through confusion matrix, K fold cross validation, precision and recall metrics.
